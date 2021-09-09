@@ -5,6 +5,7 @@
 *.iws
 .idea
 .bsp
+.vscode
 out
 .cache/
 .history/
